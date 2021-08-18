@@ -1,0 +1,11 @@
+---
+title: "Code_替代方案1_GAN"
+output: html_notebook
+---
+
+
+
+```{r}
+plot(cars)
+```
+
